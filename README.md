@@ -13,7 +13,7 @@
 ![Montage](https://raw.githubusercontent.com/EricandMarie/DrawBot/master/Telecran.png)
 
 ## Output
-![Screenshot](https://github.com/ericgaspar/DrawBot/blob/master/A.jpg)
+![Screenshot](https://github.com/EricandMarie/DrawBot/blob/master/A.jpg)
 
 ## Amélioration
 - Multi formes
