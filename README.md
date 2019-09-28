@@ -10,7 +10,7 @@
  * Dessin SVG
 
 ## Schéma de montage
-![Montage](https://github.com/ericgaspar/DrawBot/blob/master/Telecran.png)
+![Montage](https://raw.githubusercontent.com/EricandMarie/DrawBot/master/Telecran.png)
 
 ## Output
 ![Screenshot](https://github.com/ericgaspar/DrawBot/blob/master/A.jpg)
