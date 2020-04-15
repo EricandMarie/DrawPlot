@@ -10,10 +10,10 @@
  * Dessin SVG
 
 ## Schéma de montage
-![Montage](https://raw.githubusercontent.com/EricandMarie/DrawBot/master/Telecran.png)
+![Montage](Telecran.png)
 
 ## Output
-![Screenshot](https://github.com/EricandMarie/DrawBot/blob/master/A.jpg)
+![Screenshot](A.jpg)
 
 ## Amélioration
 - Multi formes
